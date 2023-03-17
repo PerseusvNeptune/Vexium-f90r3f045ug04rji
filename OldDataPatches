@@ -1,12 +1,5 @@
 local OldData={
-" ",
-"wadwadawd",
-"wawdawd",
-"dwadw",
-"waodwad",
-"wadawd",
-"wadaw",
-"final"
+" "
 }
 
 return OldData
