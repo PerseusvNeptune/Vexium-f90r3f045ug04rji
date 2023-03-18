@@ -1,6 +1,5 @@
 local OldData={
-" ",
-"awdawdawd"
+" "
 }
 
 return OldData
